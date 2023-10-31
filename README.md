@@ -1,8 +1,8 @@
 ### Hi there
 
 - I currently work as a backend developer at a web services company.
-- I learned to program on an APPLE ][+ in 1986 and studied computer science at university.
-- I mostly used C/C++, PHP, and occasionally Python.
+- I learned to program on an APPLE ][+ (an early Apple computer) in 1986 and studied computer science at university.
+- I have mostly used C/C++, PHP, and occasionally Python.
 - Nowadays, I'm interested in the Go programming language.
 - Learning Rust is one of my goals for this year.
 
